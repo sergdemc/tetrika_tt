@@ -19,7 +19,7 @@ Python 3.10+
 To use the application, you need to clone the repository to your computer. This is done using the `git clone` command. Clone the project:
 
 ```bash
-git clone git@github.com:sergdemc/y_lab_1.git && cd y_lab_1
+git clone git@github.com:sergdemc/tetrika_tt.git && cd tetrika_tt
 ```
 
 Then you have to install all necessary dependencies in your virtual environment:
